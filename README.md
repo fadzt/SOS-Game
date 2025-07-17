@@ -6,9 +6,8 @@ S.O.S (Seek Optimal Solution) was developed as part of the Software Engineering 
 
 S.O.S is a strategic puzzle game inspired by real-world urban planning challenges. The objective is to place rescue stations on a map to ensure all houses are covered at the lowest possible cost. The game offers two modes:
 
-    - Level Mode: Players solve predefined scenarios with increasing difficulty across levels.
-    
-    - Sandbox Mode: Players can create their own custom instances of the problem and attempt to solve them.
+* Level Mode: Players solve predefined scenarios with increasing difficulty across levels.
+* Sandbox Mode: Players can create their own custom instances of the problem and attempt to solve them.
 
 
 ## Setup Git with Godot
