@@ -2,7 +2,14 @@
 
 ## Introduction
 
-TODO
+S.O.S (Seek Optimal Solution) was developed as part of the Software Engineering Project (SEP) at the Institute of Operating Systems and Computer Networks (IBR) – Algorithm Division, under the curriculum of Technische Universität Braunschweig. It was completed as a credited module in the Bachelor’s program.
+
+S.O.S is a strategic puzzle game inspired by real-world urban planning challenges. The objective is to place rescue stations on a map to ensure all houses are covered at the lowest possible cost. The game offers two modes:
+
+    - Level Mode: Players solve predefined scenarios with increasing difficulty across levels.
+    
+    - Sandbox Mode: Players can create their own custom instances of the problem and attempt to solve them.
+
 
 ## Setup Git with Godot
 
